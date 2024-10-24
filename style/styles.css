@@ -1,4 +1,18 @@
 .homeBg
 {
-    background-image: url();
+    background-image: url(./assets/REALtvBackground.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+.btnSizer
+{
+    margin-top: 600px;
+    
+}
+.btnTweak
+{
+    margin-right: 100;
 }
