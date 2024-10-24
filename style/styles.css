@@ -16,6 +16,11 @@
     background-size: 100% 100%;
 }
 
+.aDecoBgone
+{
+    text-decoration: none;
+}
+
 .btnSizer
 {
     margin-top: 600px;
