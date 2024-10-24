@@ -7,6 +7,15 @@
     background-size: 100% 100%;
 }
 
+.bowenBg
+{
+    background-image: url(./assets/converted_image.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
 .btnSizer
 {
     margin-top: 600px;
