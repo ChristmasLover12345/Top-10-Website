@@ -9,7 +9,7 @@
 
 .bowenBg
 {
-    background-image: url(./assets/converted_image.png);
+    background-image: url(./assets/fgroom.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -35,4 +35,8 @@
 {
     border-width: 1px;
     border-color: rgb(82, 82, 82);
+}
+
+.bowenHeight {
+    height: 400px;
 }
