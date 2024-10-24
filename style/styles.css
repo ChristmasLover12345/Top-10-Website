@@ -1,3 +1,7 @@
+
+@font-face { font-family: IrishGrover; src: url(./assets/IrishGrover.ttf); } 
+
+
 .homeBg
 {
     background-image: url(./assets/REALtvBackground.png);
@@ -37,6 +41,17 @@
     border-color: rgb(82, 82, 82);
 }
 
+.homeTitle
+{
+    margin-top: 430px;
+    color: red;
+    font-family: IrishGrover;
+   
+}
+.textSizer
+{
+    font-size: 50px;
+}
 .bowenHeight {
     height: 400px;
 }
