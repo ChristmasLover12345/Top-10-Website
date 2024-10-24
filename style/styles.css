@@ -1,3 +1,7 @@
+
+@font-face { font-family: IrishGrover; src: url(./assets/IrishGrover.ttf); } 
+
+
 .homeBg
 {
     background-image: url(./assets/REALtvBackground.png);
@@ -15,7 +19,14 @@
     background-size: cover;
     background-size: 100% 100%;
 }
-
+.juanBg
+{
+    background-image: url(./assets/animeWatcher.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+}
 .aDecoBgone
 {
     text-decoration: none;
@@ -37,6 +48,37 @@
     border-color: rgb(82, 82, 82);
 }
 
+.homeTitle
+{
+    margin-top: 430px;
+    color: red;
+    font-family: IrishGrover;
+   
+}
+.textSizer
+{
+    font-size: 50px;
+}
 .bowenHeight {
     height: 400px;
 }
+
+
+.juanTitle
+{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10;
+}
+
+.juanContainer
+{
+    display: flex;
+    
+}
+.juanSpacer
+{
+    justify-content: space-between;
+}
+
+
