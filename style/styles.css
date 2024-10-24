@@ -12,7 +12,13 @@
     margin-top: 600px;
     
 }
-.btnTweak
+.btnText
 {
-    margin-right: 100;
+    font-size: 30px;
+}
+
+.navTweak
+{
+    border-width: 1px;
+    border-color: rgb(82, 82, 82);
 }
