@@ -89,3 +89,23 @@
     display: flex;
     justify-content: center;
 }
+
+
+
+
+@media screen and ( max-width: 800px ) {
+
+    .homeTitle
+    {
+        margin-right: 87px;
+        margin-top: 430px;
+        color: red;
+        font-family: IrishGrover;
+      
+    }
+    .textSizer
+    {
+        font-size: 25px;
+    }
+
+}
