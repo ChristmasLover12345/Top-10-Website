@@ -83,3 +83,9 @@
     height:315px;
 }
 
+
+.bowenContainer 
+{
+    display: flex;
+    justify-content: center;
+}
