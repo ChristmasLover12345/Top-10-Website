@@ -74,11 +74,13 @@
 .juanContainer
 {
     display: flex;
-    
+    justify-content: center;
 }
-.juanSpacer
+
+.cardContentSizer
 {
-    justify-content: space-between;
+    width:300px; 
+    height:315px;
 }
 
 
